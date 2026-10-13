@@ -16,7 +16,7 @@ This repository contains the following key components:
 
 * **`BeatsvsBooks_CompiledData - names redacted.csv`**: The combined dataset containing the raw response data (number of problems attempted and accuracy) from all 12 participants across all four experimental conditions.
 
-* **`/dashboard-interface/`**: Contains the source code and assets for the interactive Figma-based arithmetic task interface used to administer the experiment and record participant responses.
+* **`Experimental Study Design`**: Contains the source code and assets for the interactive Figma-based arithmetic task interface used to administer the experiment and record participant responses.
 
 * **`BeatsvsBooks.R`**: The R script used to compute descriptive statistics, generate diagnostic plots, and run the blocked two-factor ANOVA test.
 
